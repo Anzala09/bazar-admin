@@ -64,6 +64,12 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::color.color"
+    },
+    "ProductDetails": {
+      "type": "richtext"
+    },
+    "AdditionalInformation": {
+      "type": "richtext"
     }
   }
 }
